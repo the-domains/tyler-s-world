@@ -1,8 +1,19 @@
-layout_spectrum: 0.9139785
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8207885
-  brandStrength: 0.2293907
   lightness: 0.5268817
+  brandStrength: 0.7795699
   brandColors:
     - '#666C65'
     - '#41260D'
@@ -11,4 +22,5 @@ color:
     - '#993043'
   rhythmicContrast: 0.6386996
 typography_spectrum: 0.311828
+layout_spectrum: 0.9139785
 name: "Tyler's World"
