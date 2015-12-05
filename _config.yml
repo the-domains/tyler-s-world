@@ -1,0 +1,14 @@
+layout_spectrum: 0.9139785
+color:
+  saturation: 0.8207885
+  brandStrength: 0.2293907
+  lightness: 0.5268817
+  brandColors:
+    - '#666C65'
+    - '#41260D'
+    - '#CFC8BC'
+    - '#EB9B40'
+    - '#993043'
+  rhythmicContrast: 0.6386996
+typography_spectrum: 0.311828
+name: "Tyler's World"
