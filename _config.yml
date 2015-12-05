@@ -1,3 +1,7 @@
+name: "Tyler's World"
+favicon: null
+layout_spectrum: 0.90215
+typography_spectrum: 0.22903
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8207885
-  lightness: 0.5268817
-  brandStrength: 0.7795699
   brandColors:
-    - '#666C65'
-    - '#41260D'
-    - '#CFC8BC'
-    - '#EB9B40'
-    - '#993043'
-  rhythmicContrast: 0.6386996
-typography_spectrum: 0.311828
-layout_spectrum: 0.9139785
-name: "Tyler's World"
+    - '#3e240b'
+    - '#febae9'
+    - '#eb9c3f'
+    - '#eaf0fc'
+    - '#7eae58'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.75
+purpose: []
