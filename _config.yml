@@ -1,6 +1,6 @@
 name: "Tyler's World"
 favicon: null
-layout_spectrum: 0.54244
+layout_spectrum: 0.94822
 typography_spectrum: 0.22903
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#eaf0fc'
     - '#7eae58'
   brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.1875
+  lightness: 0.3125
+  saturation: 0.0625
   rhythmicContrast: 0.75
 purpose: []
