@@ -1,7 +1,7 @@
 name: "Tyler's World"
 favicon: null
 layout_spectrum: 0.89043
-typography_spectrum: 0.80338
+typography_spectrum: 0.29284
 collections:
   - index:
       path: /
