@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:d7d79eb8-5cc1-4e63-960d-ecf8b6759d23'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-07T21:04:41.588Z'
+dateModified: '2016-03-07T21:02:34.229Z'
 author: []
-datePublished: '2016-03-07T20:59:04.724Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Super Tyler Tuesday!!'
-dateModified: '2016-03-07T20:57:24.248Z'
 sourcePath: _posts/2016-03-07-super-tyler-tuesday.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: super-tyler-tuesday/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Super Tyler Tuesday!!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d61d55dc-0396-440e-9bd2-c517dc86bfe7.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3154edcdb6f2c29cd02ac018f873f2b6670e98f3.png)
