@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:5362dd4f-a242-4071-a75b-3f312c24eb0a'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-07T23:09:24.540Z'
+dateModified: '2016-03-07T23:09:14.392Z'
 author: []
-datePublished: '2016-03-07T23:03:53.123Z'
-publisher:
-  domain: ''
-  name: ''
 title: Relaxing in the garden at Quimby Farms
-dateModified: '2016-03-07T23:02:13.248Z'
 sourcePath: _posts/2016-03-07-relaxing-in-the-garden-at-quimby-farms.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: relaxing-in-the-garden-at-quimby-farms/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
