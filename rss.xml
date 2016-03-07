@@ -4,8 +4,22 @@
         <description><![CDATA[Tyler's World]]></description>
         <link>http://tylerwhalen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 23:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 23:06:10 GMT</lastBuildDate>
         <atom:link href="http://tylerwhalen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Torrey Pines with Nana and Papa]]></title>
+            <description><![CDATA[<article><h1>Torrey Pines with Nana and Papa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/feabca5649ca19d25e9a3d3a264849e19c5863ba.png"></article>]]></description>
+            <link>http://tylerwhalen.com/torrey-pines-with-nana-and-papa/index.html</link>
+            <guid isPermaLink="false">8ab9e9ac-3e7d-42fc-b1e3-ba7c16442f74</guid>
+            <pubDate>Mon, 07 Mar 2016 23:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bath time for TyTy]]></title>
+            <description><![CDATA[<article><h1>Bath time for TyTy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8cf5d4d147cd88f522b1465430e6cb035191f49.png"></article>]]></description>
+            <link>http://tylerwhalen.com/bath-time-for-tyty/index.html</link>
+            <guid isPermaLink="false">b474d607-c579-4074-b54d-5bfce2879395</guid>
+            <pubDate>Mon, 07 Mar 2016 23:03:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome Tyler!]]></title>
             <description><![CDATA[<article><h1>Welcome Tyler!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da18d56cfb55c8f10da7c8fd2e6e61a9f0bd8cde.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://tylerwhalen.com/tylers-new-favorite-chair/index.html</link>
             <guid isPermaLink="false">c08bb72b-c6b4-4d8d-8fee-12d715ba2f60</guid>
             <pubDate>Mon, 07 Mar 2016 23:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Relaxing in the garden at Quimby Farms]]></title>
-            <description><![CDATA[<article><h1>Relaxing in the garden at Quimby Farms</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9d5fd4c76e836162e91cf3b07797668008ccf88.png"></article>]]></description>
-            <link>http://tylerwhalen.com/relaxing-in-the-garden-at-quimby-farms/index.html</link>
-            <guid isPermaLink="false">485eeab4-f207-4df2-b9ea-3f0cbf9ec46b</guid>
-            <pubDate>Mon, 07 Mar 2016 23:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tyler In A Box!!]]></title>
-            <description><![CDATA[<article><h1>Tyler In A Box!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fa7a7f22bc21e5c1cc5f578cf98079a3a10cd4d.png"></article>]]></description>
-            <link>http://tylerwhalen.com/tyler-in-a-box/index.html</link>
-            <guid isPermaLink="false">bd7e75fe-03d8-4f76-ae77-e34c7f71f411</guid>
-            <pubDate>Mon, 07 Mar 2016 20:59:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
