@@ -2,28 +2,14 @@
     <channel>
         <title><![CDATA[Tyler's World]]></title>
         <description><![CDATA[Tyler's World]]></description>
-        <link>https://thegrid.ai/tyler-s-world/</link>
+        <link>http://tylerwhalen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 21:52:11 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/tyler-s-world/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Tyler On A Swing]]></title>
-            <description><![CDATA[<article><h1>Tyler On A Swing</h1><p>Tyler in slomo on the swing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/577037156bb2ef83d8074ffdf253082dd256e1e0.jpg"></article>]]></description>
-            <link>https://vimeo.com/158082991</link>
-            <guid isPermaLink="false">1e694365-45a2-4fe8-85f5-1a1cf2c28e58</guid>
-            <pubDate>Mon, 07 Mar 2016 21:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Super Tyler Tuesday!!]]></title>
-            <description><![CDATA[<article><h1>Super Tyler Tuesday!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3154edcdb6f2c29cd02ac018f873f2b6670e98f3.png"></article>]]></description>
-            <link>urn:uuid:d7d79eb8-5cc1-4e63-960d-ecf8b6759d23</link>
-            <guid isPermaLink="false">f3aa8ae3-0a8e-47eb-8e93-25ed2879425c</guid>
-            <pubDate>Mon, 07 Mar 2016 21:04:41 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 07 Mar 2016 22:14:30 GMT</lastBuildDate>
+        <atom:link href="http://tylerwhalen.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tyler In A Box!!]]></title>
             <description><![CDATA[<article><h1>Tyler In A Box!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fa7a7f22bc21e5c1cc5f578cf98079a3a10cd4d.png"></article>]]></description>
-            <link>https://thegrid.ai/tyler-s-world/tyler-in-a-box/index.html</link>
+            <link>http://tylerwhalen.com/tyler-in-a-box/index.html</link>
             <guid isPermaLink="false">bd7e75fe-03d8-4f76-ae77-e34c7f71f411</guid>
             <pubDate>Mon, 07 Mar 2016 20:59:04 GMT</pubDate>
         </item>
