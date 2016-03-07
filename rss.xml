@@ -4,8 +4,15 @@
         <description><![CDATA[Tyler's World]]></description>
         <link>http://tylerwhalen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 23:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 23:04:45 GMT</lastBuildDate>
         <atom:link href="http://tylerwhalen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tyler's new favorite chair]]></title>
+            <description><![CDATA[<article><h1>Tyler's new favorite chair</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/072eeb55a27e1d6cbf6b2dab87c9e3312eae0e41.png"></article>]]></description>
+            <link>http://tylerwhalen.com/tylers-new-favorite-chair/index.html</link>
+            <guid isPermaLink="false">c08bb72b-c6b4-4d8d-8fee-12d715ba2f60</guid>
+            <pubDate>Mon, 07 Mar 2016 23:03:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Relaxing in the garden at Quimby Farms]]></title>
             <description><![CDATA[<article><h1>Relaxing in the garden at Quimby Farms</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9d5fd4c76e836162e91cf3b07797668008ccf88.png"></article>]]></description>
