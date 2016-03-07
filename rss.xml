@@ -4,8 +4,15 @@
         <description><![CDATA[Tyler's World]]></description>
         <link>http://tylerwhalen.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 23:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 23:05:17 GMT</lastBuildDate>
         <atom:link href="http://tylerwhalen.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tyler is ready for the solar future!]]></title>
+            <description><![CDATA[<article><h1>Tyler is ready for the solar future!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23f19e7bf0f50946ebbaad3433d334652a4faaf.png"></article>]]></description>
+            <link>http://tylerwhalen.com/tyler-is-ready-for-the-solar-future/index.html</link>
+            <guid isPermaLink="false">8e7fa764-6fac-4f4c-88c9-cf29a193d5ad</guid>
+            <pubDate>Mon, 07 Mar 2016 23:03:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stop! ... Solar Time!!]]></title>
             <description><![CDATA[<article><h1>Stop! ... Solar Time!!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2048c5457044cf6f19810e1eb08854d81eed9034.png"></article>]]></description>
